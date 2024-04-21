@@ -1,5 +1,5 @@
 """
-Algorithmische Mathematik II - Uebungsblatt Nr. 1
+Algorithmische Mathematik II - Uebungsblatt Nr. 2
 Tutorium Gruppe 8
 Abgabe von: Alexander Rohe, Lars Lewerenz
 """
