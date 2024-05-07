@@ -34,8 +34,6 @@ def plot_walks():
   pyplot.title("")
   pyplot.show()
 
-#plot_walks()
-
 # b)
 
 def end_value(probability, steps):
@@ -73,4 +71,5 @@ def many_walks():
   pyplot.legend()
   pyplot.show()
 
+plot_walks()
 many_walks()
